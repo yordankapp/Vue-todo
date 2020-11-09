@@ -1,6 +1,12 @@
 # todo
 
-Live version: https://todo-3a84a.web.app
+**_Live version:_** https://todo-3a84a.web.app <br>
+
+**_Technologies used in the project:_** 
+- Vue
+- Vue Router 
+- Tailwind
+- Firebase 
 
 ## Project setup
 ```
