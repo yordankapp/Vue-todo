@@ -1,5 +1,7 @@
 # todo
 
+Live version: https://todo-3a84a.web.app
+
 ## Project setup
 ```
 npm install
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
